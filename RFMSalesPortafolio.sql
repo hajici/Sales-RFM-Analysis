@@ -12,3 +12,5 @@ SELECT CUSTOMERNAME, R, F, M,
         WHEN (R >= 1) AND (F >= 1) AND (M >= 1) THEN 'Hibernating'
 	END RFM_Segment
 FROM rfm_data;
+
+-- Vizualization: https://public.tableau.com/app/profile/hajime3651/viz/SalesProjectDashboard_16635324207710/SalesDshboard
