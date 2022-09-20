@@ -13,4 +13,4 @@ SELECT CUSTOMERNAME, R, F, M,
 	END RFM_Segment
 FROM rfm_data;
 
--- Vizualization: https://public.tableau.com/app/profile/hajime3651/viz/SalesProjectDashboard_16635324207710/SalesDshboard
+-- Viz: https://public.tableau.com/app/profile/hajime3651/viz/SalesProjectDashboard_16635324207710/SalesDshboard
