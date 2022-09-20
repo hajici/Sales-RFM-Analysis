@@ -113,4 +113,4 @@ SELECT
     concat(R, F, M) AS RFM_Value
 FROM rfm_calc c;
 
-
+-- Viz: https://public.tableau.com/app/profile/hajime3651/viz/SalesProjectDashboard_16635324207710/SalesDshboard
